@@ -13,13 +13,13 @@ A desktop application developed using Python and Tkinter to securely manage webs
 ## Screenshots
 
 Main Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](main_interface.png)
 
 Password Generation
-![Password Generation](images/password_generator.png)
+![Password Generation](password_generator.png)
 
 Search Feature
-![Search Feature](images/search_feature.png)
+![Search Feature](search_feature.png)
 
 ## Technologies Used
 - Python
